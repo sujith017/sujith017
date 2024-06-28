@@ -35,6 +35,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+
+
+## Leetcode
+
+![LeetCode Stats](https://leetcode.card.workers.dev/sujith22aim?theme=dark&font=patrick_hand&extension=activity)
 <!--
 **sujith017/sujith017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
