@@ -36,14 +36,8 @@
 
 </div>
 
-
-
-## Leetcode
-
-![LeetCode Stats](https://leetcode.card.workers.dev/sujith22aim?theme=dark&font=patrick_hand&extension=activity)
-<!--
 **sujith017/sujith017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![LeetCode Stats](https://leetcode.card.workers.dev/sujith22aim?theme=dark&font=baloo&extension=null)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
