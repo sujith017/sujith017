@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <p align="center">
  <a href="https://sujith.tech" target="blank">
@@ -24,7 +24,7 @@
 
 
 
-## use to code 
+### use to code 
 <div align = "center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +37,6 @@
 </div>
 
 
-## Leetcode
+### Leetcode
 ![LeetCode Stats](https://leetcode.card.workers.dev/sujith22aim?theme=dark&font=baloo&extension=null)
 
