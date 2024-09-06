@@ -40,3 +40,9 @@
 ### Leetcode
 ![LeetCode Stats](https://leetcode.card.workers.dev/sujith22aim?theme=dark&font=baloo&extension=null)
 
+
+
+
+##Random quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
