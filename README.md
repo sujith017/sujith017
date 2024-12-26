@@ -27,7 +27,7 @@
 ### use to code 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,anaconda,aws,gcp,java,js,linkedin,linux,neovim,netlify,obsidian,postman,react,terraform,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,anaconda,java,js,linkedin,linux,neovim,netlify,postman,react,vite,vscode,nvim" />
   </a>
 </p>
 
