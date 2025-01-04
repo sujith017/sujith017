@@ -33,7 +33,7 @@
 
 
 ### Leetcode
-![LeetCode Stats]([https://leetcode.card.workers.dev/sujith017?theme=dark&font=baloo&extension=null](https://leetcard.jacoblin.cool/sujith017?theme=dark&font=Kosugi%20Maru))
+[![LeetCode Stats]([https://leetcode.card.workers.dev/sujith017?theme=dark&font=baloo&extension=null)](https://leetcard.jacoblin.cool/sujith017?theme=dark&font=Kosugi%20Maru)
 
 
 
