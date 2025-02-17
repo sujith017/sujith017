@@ -17,11 +17,17 @@
 </p>
 
 
-### Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/sujith017?theme=dark&font=Kosugi%20Maru)
+<!-- ### Leetcode -->
+<div style="text-align: center;">
+  <img src="https://leetcard.jacoblin.cool/sujith017?theme=dark&font=Kosugi%20Maru" alt="LeetCode Stats">
+</div>
 
 
 
+<!-- <div style="text-align: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?theme=catppuccin_mocha" alt="LeetCode Stats">
+</div>
+ -->
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes) -->
