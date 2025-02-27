@@ -1,4 +1,4 @@
-![jeyachandranj Banner Image](./asserts/banner.png)
+![Sujith Banner Image](./asserts/banner.png)
 <p align="center">
   <a href="https://github.com/sujith017">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+to+Sujith%27s+Profile!;Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;LeetCode+Problem+Solver;Open+Source+Contributor;Passionate+about+Technology;Lifelong+Learner;Building+Innovative+Solutions;Explorer+of+New+Horizons;Turning+Ideas+into+Reality" alt="Typing Animation" />
