@@ -18,8 +18,10 @@
 
 
 <!-- ### Leetcode -->
-<div style="text-align: center;">
-  <img src="https://leetcard.jacoblin.cool/sujith017?theme=dark&font=Kosugi%20Maru" alt="LeetCode Stats">
+<div>
+  <img src="https://leetcard.jacoblin.cool/sujith017?theme=dark&font=Kosugi%20Maru" 
+       alt="LeetCode Stats" 
+       style="display: block; margin: auto;">
 </div>
 
 
