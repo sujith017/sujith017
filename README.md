@@ -10,9 +10,9 @@
 
 
 <!-- ### use to code  -->
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vim,anaconda,java,js,linkedin,linux,neovim,netlify,postman,react,vite,vscode,nvim,gmail" />
+    <img src="https://skillicons.dev/icons?i=git,c,vim,java,js,linkedin,linux,neovim,netlify,postman,react,vite,vscode,nvim,gmail" />
   </a>
 </p>
 
