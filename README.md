@@ -12,7 +12,7 @@
 <!-- ### use to code  -->
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vim,java,js,linkedin,linux,neovim,netlify,postman,react,vite,vscode,linkedin,gmail" />
+    <img src="https://skillicons.dev/icons?i=git,c,vim,java,js,linkedin,linux,neovim,netlify,postman,react,vite,vscode,express,gmail" />
   </a>
 </p>
 
